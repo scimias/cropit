@@ -1,6 +1,6 @@
 {
-	"name" : "Take Me There",
-	"short_name" : "Take Me There",
+	"name" : "Short Url",
+	"short_name" : "Short Url",
 	"icons" : [
 		{
 			"src": "/imgs/favicon/44x44.png",
@@ -81,10 +81,10 @@
 	"theme_color" : "#ffffff",
 	"background_color" : "#ffffff",
 	"display" : "standalone",
-	"start_url" : "https://tmt.pw/",
+	"start_url" : "https://app.cropz.it/",
 	"lang" : "English",
 	"screenshots" : [],
-	"description" : "URL Shortener powered by Google Apps Script",
+	"description" : "Short Your Ugly URL",
 	"orientation" : "portrait",
 	"scope" : "/",
 	"generated" : "undefined"
